@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A Junior Software Engineer at V2 Technologies Ltd, essentially working with JavaScript, with a great interest in Systems Design and Distributed Systems.</h3>
 
-- 🌱 I’m currently learning **Laravel , PHP , AWS etc**
+- 🌱 I’m currently learning **Machine Learning,Blocking Chain,AWS**
 
 - 💬 Ask me about **React , JavaScript**
 
